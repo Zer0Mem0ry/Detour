@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (dll.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  dllmain.cpp
+  Generating code
+  All 14 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+detours.lib(detours.obj) : warning LNK4099: PDB 'detours.pdb' was not found with 'detours.lib(detours.obj)' or at 'D:\Projects\Hook\Release\detours.pdb'; linking object as if no debug info
+detours.lib(disasm.obj) : warning LNK4099: PDB 'detours.pdb' was not found with 'detours.lib(disasm.obj)' or at 'D:\Projects\Hook\Release\detours.pdb'; linking object as if no debug info
+  dll.vcxproj -> D:\Projects\Hook\Release\hook.dll
+  dll.vcxproj -> D:\Projects\Hook\Release\hook.pdb (Full PDB)
